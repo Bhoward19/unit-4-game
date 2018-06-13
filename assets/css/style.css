@@ -1,0 +1,146 @@
+body {
+    background-color: rgb(5, 80, 33);
+    font-family: 'Press Start 2P', cursive;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 1%;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+header {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;  
+    font-size: 30px;
+    color: yellow;
+}
+
+#computerNumber {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 36px;
+    color: springgreen;
+}
+
+#userNumber {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 36px;
+    color: red;
+}
+
+#wins {
+    color: white;
+}
+
+#losses {
+    color: white;
+}
+
+
+
+.scoreWins {
+    text-align: center;
+    margin-left: 5%;
+    margin-top: -10%;
+    padding: 2%;
+    position: absolute;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 2px;
+}
+
+.scoreLosses {
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding: 2%;
+    position: absolute;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 2px;
+}
+
+.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+}
+
+#card1 {
+    color: yellow;
+}
+
+#card2 {
+    color: yellow;
+}
+
+#card3 {
+    color: yellow;
+}
+
+#card4 {
+    color: yellow;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.container .btn1 {
+    position: relative;
+    top: 10%;
+    left: 10%;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container .btn2 {
+    position: relative;
+    top: 10%;
+    left: 10%;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container .btn3 {
+    position: relative;
+    top: 10%;
+    left: 10%;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container .btn4 {
+    position: relative;
+    top: 10%;
+    left: 10%;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
